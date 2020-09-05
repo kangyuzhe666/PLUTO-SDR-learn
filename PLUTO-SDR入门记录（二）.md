@@ -56,7 +56,7 @@ sdr#是免安装版，因此将插件解压到的文件合并到sdr#中即可，
 
 一直next到打开例程
 
-![image-20200905102640312](../AppData/Roaming/Typora/typora-user-images/image-20200905102640312.png)
+![image-20200905102640312](https://picture-1253612317.cos.ap-nanjing.myqcloud.com/img/image-20200905102640312.png)
 
 测试一下收音机功能
 
