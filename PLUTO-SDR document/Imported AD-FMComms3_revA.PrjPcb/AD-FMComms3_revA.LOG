@@ -1,0 +1,15 @@
+Importer Log Report
+Project : AD-FMComms3_revA.PrjPcb
+
+Section : Document - C:\Users\kyz\Downloads\ad-fmcomms3_reva.brd\AD-FMComms3_revA.BRD
+    Section : Load Messages
+        Error   : Added new obj type - TRIANGLE_1
+    EndSection
+
+    Section : Import Messages
+        Warning : CONSTRAINT REGION is translated as Mechanical 1 layer lines/arcs.
+        Warning : CONSTRAINT REGION is translated as Mechanical 1 layer lines/arcs.
+        Warning : CONSTRAINT REGION is translated as Mechanical 1 layer lines/arcs.
+        Warning : CONSTRAINT REGION is translated as Mechanical 1 layer lines/arcs.
+    EndSection
+EndSection
